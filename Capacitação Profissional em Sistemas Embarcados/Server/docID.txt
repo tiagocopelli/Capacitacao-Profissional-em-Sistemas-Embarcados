@@ -1,7 +1,0 @@
-ID: (BC:DD:C2:26:69:77) - Placa Preta
-
-ID: (BC:DD:C2:26:69:23) - Placa Azul
-
-ID: (CC:50:E3:56:BD:D2) - Placa Vermelha
-
-ID: (28:cd:c1:11:c7:47) - Placa Bitdoglab
